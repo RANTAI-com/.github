@@ -31,7 +31,7 @@ Jaringan kolaboratif antara pelaku wisata, akademisi, dan komunitas untuk adopsi
 | MODEL PREDI   | [rantai-model-predi.streamlit.app](https://rantai-model-predi.streamlit.app/) | ✅ Stable | ![MODEL PREDI](https://img.shields.io/badge/rantai-model%20predi-crimson) |
 | ETHIKA     | [rantai-ethika.streamlit.app](https://rantai-ethika.streamlit.app/) | ✅ Stable | ![ETHIKA](https://img.shields.io/badge/rantai-ethika-purple) |
 | Nexus     | [rantai-nexus.streamlit.app](https://rantai-nexus.streamlit.app/) | ✅ Stable | ![Nexus](https://img.shields.io/badge/rantai-nexus-cyan) |
-| SmartFaith     | [smartfaith.streamlit.app](https://smartfaith.streamlit.app/) | ✅ Stable | ![SmartFaith](https://img.shields.io/badge/smartfaith-magenta) |
+| Diva     | [rantai-diva.streamlit.app](https://rantai-diva.streamlit.app/) | ✅ Stable | ![Diva](https://img.shields.io/badge/rantai-diva-magenta) |
 | Learn3     | [learn3.streamlit.app](https://learn3.streamlit.app/) | ✅ Stable | ![Learn3](https://img.shields.io/badge/learn3-indigo) |
 | BlockPedia     | [blockpedia.streamlit.app](https://blockpedia.streamlit.app/) | ✅ Stable | ![BlockPedia](https://img.shields.io/badge/blockpedia-lightgreen) |
 
